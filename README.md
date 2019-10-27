@@ -1,6 +1,6 @@
-# 1.Sinif-1.Donem
-Proje ödevleri
-# Ödev 1: Personel Maaş Hesaplama Yazılımı
+## 1.Sinif-1.Donem
+# ONUR GÖZ
+## Ödev 1: Personel Maaş Hesaplama Yazılımı
 
 Proje tanımı :
 
@@ -22,7 +22,7 @@ Proje tanımı :
     Program tasarımı ve yazımında; işlenilen konular dahilinde iç-içe döngüler kullanılarak yapmamız bekleniyor.
 
 
-# Ödev 2: Seçim Simülasyonu Yazılımı
+## Ödev 2: Seçim Simülasyonu Yazılımı
 
 Proje Tanımı :
 Bizden il il, ve Türkiye genelinde hesaplama yapan seçim simülasyonu yapmamız isteniyor. Girilen bilgiler doğrultusunda; 
