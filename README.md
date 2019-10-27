@@ -1,8 +1,10 @@
-## 1.Sinif-1.Donem
 # ONUR GÖZ
+
+## 1.Sinif-1.Donem
+
 ## Ödev 1: Personel Maaş Hesaplama Yazılımı
 
-Proje tanımı :
+#### Proje tanımı :
 
   Bu projede bizden bir iş yerinde kullanılan muhasebe-maaş işlerini yapabilen bir program tasarlamamız isteniyor.
   Program dahilinde işçilerin ad-soyad, tc, medeni halleri, eşlerinin iş durumu, çocuk sayisi ve yaş bilgileri, 
@@ -13,7 +15,7 @@ Proje tanımı :
   çalışanların çocuklarının ortalaması, üçden fazla çocuğa sahip olanların sayısı ve engelli çalışanların yüzdesini yazdırmamız isteniyor.
 
 
-### Projede Teknik olarak dikkat edilmesi gereken yerler :
+#### Projede Teknik olarak dikkat edilmesi gereken yerler :
 
      Veri girişleri sırasında, kullanıcının belirtilen kısıtlara uygun olarak giriş yapıncaya kadar beklenilmesi gerekmektedir. 
     Çıktı sırasında, reel sayılar virgülden sonra 2 basamağa kadar duyarlı olarak yazdırmalıyız. 
@@ -24,13 +26,13 @@ Proje tanımı :
 
 ## Ödev 2: Seçim Simülasyonu Yazılımı
 
-Proje Tanımı :
+#### Proje Tanımı :
 Bizden il il, ve Türkiye genelinde hesaplama yapan seçim simülasyonu yapmamız isteniyor. Girilen bilgiler doğrultusunda; 
 iktidar partisinin belirlenmesi, ana muhalefet partisinin belirlenmesi, partilerin oy sayıları, 
 oy sayılarına göre sahip oldukları millet vekili sayıları, oy yüzdeleri, milletvekili yüzdeleri gibi bilgileri çıktı olarak yazdırmamız
 isteniyor.
 
 
-### Projede Dikkat edilmesi :
+#### Projede Dikkat edilmesi gereken yerler :
 	İl sonuçları oy sayılarına göre sıralı olarak yazdırılırken sıralama algoritması kullanmalıyız. Sıralama algoritması olarak, 
 	etkin kabarcık(bubble sort) sıralama algoritması kullanmalıyız. Ve en az üç fonksyon kullanmalıyız.
