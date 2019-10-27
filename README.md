@@ -4,7 +4,7 @@ Proje ödevleri
 
 Proje tanımı :
 
-	Bu projede bizden bir iş yerinde kullanılan muhasebe-maaş işlerini yapabilen bir program tasarlamamız isteniyor.
+  Bu projede bizden bir iş yerinde kullanılan muhasebe-maaş işlerini yapabilen bir program tasarlamamız isteniyor.
   Program dahilinde işçilerin ad-soyad, tc, medeni halleri, eşlerinin iş durumu, çocuk sayisi ve yaş bilgileri, 
   engel durumu, engel derecesi bilgileri ve aldıkları maaşa denk gereken banknot para adedini hesaplayıp kayıt altına almamız gerekiyor.
   Bu bilgiler doğrultusunda bizden; Devlete ödenen gelir vergisi toplamı, toplam ödenen maaş tutarı ve banknot bilgisi,
@@ -15,11 +15,11 @@ Proje tanımı :
 
 Projede Teknik olarak dikkat edilmesi gereken yerler :
 
-	Veri girişlerisırasında, kullanıcının belirtilen kısıtlara uygun olarak giriş yapıncaya kadar beklenilmesi gerekmektedir. 
-  Çıktı sırasında, reel sayılar virgülden sonra 2 basamağa kadar duyarlı olarak yazdırmalıyız. 
-  Sıfıra bölme hatası oluşmaması için yeterli miktarda veri girişi yapılacağını varsaymalıyız.  
-  En büyük değer bulma istekleri için, bu değere sahip yalnız 1 varlık olabileceğini varsaymalıyız. 
-  Program tasarımı ve yazımında; işlenilen konular dahilinde iç-içe döngüler kullanılarak yapmamız bekleniyor.
+	  Veri girişleri sırasında, kullanıcının belirtilen kısıtlara uygun olarak giriş yapıncaya kadar beklenilmesi gerekmektedir. 
+	  Çıktı sırasında, reel sayılar virgülden sonra 2 basamağa kadar duyarlı olarak yazdırmalıyız. 
+	  Sıfıra bölme hatası oluşmaması için yeterli miktarda veri girişi yapılacağını varsaymalıyız.  
+	  En büyük değer bulma istekleri için, bu değere sahip yalnız 1 varlık olabileceğini varsaymalıyız. 
+	  Program tasarımı ve yazımında; işlenilen konular dahilinde iç-içe döngüler kullanılarak yapmamız bekleniyor.
 
 
 Ödev#2: Seçim Simülasyonu Yazılımı
