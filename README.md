@@ -34,5 +34,5 @@ isteniyor.
 
 
 #### Projede Dikkat edilmesi gereken yerler :
-	İl sonuçları oy sayılarına göre sıralı olarak yazdırılırken sıralama algoritması kullanmalıyız. Sıralama algoritması olarak, 
-	etkin kabarcık(bubble sort) sıralama algoritması kullanmalıyız. Ve en az üç fonksyon kullanmalıyız.
+	İl sonuçları oy sayılarına göre sıralı olarak yazdırılırken sıralama algoritması kullanmalıyız.
+	Sıralama algoritması olarak, etkin kabarcık(bubble sort) sıralama algoritması ve en az üç fonksiyon kullanmalıyız.
