@@ -13,13 +13,13 @@ Proje tanımı :
   çalışanların çocuklarının ortalaması, üçden fazla çocuğa sahip olanların sayısı ve engelli çalışanların yüzdesini yazdırmamız isteniyor.
 
 
-Projede Teknik olarak dikkat edilmesi gereken yerler :
+### Projede Teknik olarak dikkat edilmesi gereken yerler :
 
-	  Veri girişleri sırasında, kullanıcının belirtilen kısıtlara uygun olarak giriş yapıncaya kadar beklenilmesi gerekmektedir. 
-	  Çıktı sırasında, reel sayılar virgülden sonra 2 basamağa kadar duyarlı olarak yazdırmalıyız. 
-	  Sıfıra bölme hatası oluşmaması için yeterli miktarda veri girişi yapılacağını varsaymalıyız.  
-	  En büyük değer bulma istekleri için, bu değere sahip yalnız 1 varlık olabileceğini varsaymalıyız. 
-	  Program tasarımı ve yazımında; işlenilen konular dahilinde iç-içe döngüler kullanılarak yapmamız bekleniyor.
+     Veri girişleri sırasında, kullanıcının belirtilen kısıtlara uygun olarak giriş yapıncaya kadar beklenilmesi gerekmektedir. 
+    Çıktı sırasında, reel sayılar virgülden sonra 2 basamağa kadar duyarlı olarak yazdırmalıyız. 
+    Sıfıra bölme hatası oluşmaması için yeterli miktarda veri girişi yapılacağını varsaymalıyız.  
+    En büyük değer bulma istekleri için, bu değere sahip yalnız 1 varlık olabileceğini varsaymalıyız. 
+    Program tasarımı ve yazımında; işlenilen konular dahilinde iç-içe döngüler kullanılarak yapmamız bekleniyor.
 
 
 # Ödev 2: Seçim Simülasyonu Yazılımı
@@ -31,6 +31,6 @@ oy sayılarına göre sahip oldukları millet vekili sayıları, oy yüzdeleri, 
 isteniyor.
 
 
-Projede Dikkat edilmesi :
+### Projede Dikkat edilmesi :
 	İl sonuçları oy sayılarına göre sıralı olarak yazdırılırken sıralama algoritması kullanmalıyız. Sıralama algoritması olarak, 
 	etkin kabarcık(bubble sort) sıralama algoritması kullanmalıyız. Ve en az üç fonksyon kullanmalıyız.
