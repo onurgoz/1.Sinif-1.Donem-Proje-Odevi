@@ -1,6 +1,6 @@
 # 1.Sinif-1.Donem
 Proje ödevleri
-Ödev#1: Personel Maaş Hesaplama Yazılımı
+# Ödev 1: Personel Maaş Hesaplama Yazılımı
 
 Proje tanımı :
 
@@ -22,7 +22,7 @@ Projede Teknik olarak dikkat edilmesi gereken yerler :
 	  Program tasarımı ve yazımında; işlenilen konular dahilinde iç-içe döngüler kullanılarak yapmamız bekleniyor.
 
 
-Ödev#2: Seçim Simülasyonu Yazılımı
+# Ödev 2: Seçim Simülasyonu Yazılımı
 
 Proje Tanımı :
 Bizden il il, ve Türkiye genelinde hesaplama yapan seçim simülasyonu yapmamız isteniyor. Girilen bilgiler doğrultusunda; 
@@ -32,5 +32,5 @@ isteniyor.
 
 
 Projede Dikkat edilmesi :
-İl sonuçları oy sayılarına göre sıralı olarak yazdırılırken sıralama algoritması kullanmalıyız. Sıralama algoritması olarak, 
-etkin kabarcık(bubble sort) sıralama algoritması kullanmalıyız. Ve en az üç fonksyon kullanmalıyız.
+	İl sonuçları oy sayılarına göre sıralı olarak yazdırılırken sıralama algoritması kullanmalıyız. Sıralama algoritması olarak, 
+	etkin kabarcık(bubble sort) sıralama algoritması kullanmalıyız. Ve en az üç fonksyon kullanmalıyız.
